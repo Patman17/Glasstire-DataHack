@@ -15,7 +15,7 @@ We did some data manipulation and cleaning in Python utilizing Pandas but the pr
 
 [**Link to Visualization / Presentation**](https://public.tableau.com/profile/huy.bui#!/vizhome/BaysianBoyz/EventsAnalysis)
 
-Our main findings are as follows:
+### Main Findings
 1) **Event Concentration by Zipcode** - geospatial mapping of all art venues grouped by zipcode. We can see most all venues are concentrated in the center of the city in the Museum District area. There are some unique scattering of venues such those in Galveston. 
 2) **Number of Events per Year** - From 2007 to 2012, there has been a huge growth in the number of art events for Houston. After 2012, there is a more stable number of events and the art scene is still going strong.   (Note: 2019 count is incomplete)  
 3) **Number of Events per Month** -  Most events happen in the month of March and September while August and December had to the least. We found out later from the panel that is correct as there are two major seasons spring and fall events. Holiday season is slow. 
