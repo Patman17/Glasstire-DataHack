@@ -29,7 +29,7 @@ We attempt to map the locations of art venue against population income to see if
 
 However, in creating this visualization we did make a visual appealing plots :).
 
-[**Venue to Income Plot**](https://public.tableau.com/profile/patrick.m.ly#!/vizhome/GlassTire-VenuesbyIncomeTract/Sheet4)   
+[**Venue to Income Tract Plot**](https://public.tableau.com/profile/patrick.m.ly#!/vizhome/GlassTire-VenuesbyIncomeTract/Sheet4)    
 [**Venue to Population Income Plot**](https://public.tableau.com/profile/patrick.m.ly#!/vizhome/GlassTire-VenueLocationsbyPopulation/Sheet2)  
 
 ## Last Words
