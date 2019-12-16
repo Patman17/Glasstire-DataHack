@@ -42,6 +42,6 @@ Exploring the dataset of the Houston visual art community brought up some intere
  - **Ali Rasheed** - team member
  - **Patrick Ly** - team member
  
- Advisor on supplemental geospacial visualization: **Edward Yuen**
+ Advisor on supplemental geospatial visualization: **Edward Yuen**
 
 
