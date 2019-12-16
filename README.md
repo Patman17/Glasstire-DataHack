@@ -28,9 +28,12 @@ From this visualization we see that there seems to be a very sporadic activity o
 Exploring the dataset of the Houston visual art community brought up some interesting insights and it is great to see that the Houston art scene flourshing.
 
 ## Authors
+**Team: βαλesΙαη βθγs** 
  - **Huy Bui** - lead 
  - **Matt Danielson** - team member
  - **Ali Rasheed** - team member
  - **Patrick Ly** - team member
+ 
+ Advisor on supplemental geospacial visualization: **Edward Yuen**
 
 
