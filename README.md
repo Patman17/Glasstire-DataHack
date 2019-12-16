@@ -24,6 +24,14 @@ Our main findings are as follows:
 
 From this visualization we see that there seems to be a very sporadic activity of artists where we see artists come and go after several years. Artists appear onto the art scene strong and then host less events over time. However there is some artist with consistent showing such as Emily Sloan.
 
+### Supplemental Visualizations
+We attempt to map the locations of art venue against population income to see if there was a trend between concentration of art venues to general populace wealth of an area. Even though art concentrated areas have good value such as the Museum District we found there was additional factors incluenced the population income of an area so nothing profoundly conclusive could be formulated from these graphs.
+
+However, in creating this visualization we did make a visual appealing plots :).
+
+[**Venue to Income Plot**](https://public.tableau.com/profile/patrick.m.ly#!/vizhome/GlassTire-VenuesbyIncomeTract/Sheet4)   
+[**Venue to Population Income Plot**](https://public.tableau.com/profile/patrick.m.ly#!/vizhome/GlassTire-VenueLocationsbyPopulation/Sheet2)  
+
 ## Last Words
 Exploring the dataset of the Houston visual art community brought up some interesting insights and it is great to see that the Houston art scene flourshing.
 
